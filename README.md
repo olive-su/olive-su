@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm olive-su!
 
-- 👀 I’m interested in AI, and Full stack web development.
+- 👀 I’m interested in Full stack web development and AI.
 - 🌱 I’m currently learning　![Flask Badge](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![Keras Badge](https://img.shields.io/badge/Keras-d00000?style=flat-square&logo=Keras&logoColor=white) ![Opencv Badge](https://img.shields.io/badge/Opencv-5C3EE8?style=flat-square&logo=Opencv&logoColor=white)
 
 
@@ -17,7 +17,7 @@
 
 - **Frame work**
 
-  ![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white) ![Numpy Badge](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white) ![Keras Badge](https://img.shields.io/badge/Keras-d00000?style=flat-square&logo=Keras&logoColor=white) ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+  ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![Express Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white) 
 
 - **OS**
 
@@ -25,21 +25,21 @@
 
 - **Data Base**
 
-  ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
 - **ETC**
 
-  ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![SourceTree Badge](https://img.shields.io/badge/SourceTree-0053e3?style=flat-square&logo=SourceTree&logoColor=white)
+  ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![SourceTree Badge](https://img.shields.io/badge/SourceTree-0053e3?style=flat-square&logo=SourceTree&logoColor=white) ![AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ### 　
 
-## 💬 Contact
+## 💬 Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1466su@gmail.com)](mailto:1466su@gmail.com)  [![NaverBlog Badge](https://img.shields.io/badge/DailyBlog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/1466su)](https://blog.naver.com/1466su) [![TistoryBlog Badge](https://img.shields.io/badge/TechNote-00A98F?style=flat-square&logo=About.me&logoColor=white&link=https://olive-su.tistory.com/)](https://olive-su.tistory.com/)
 
 
 ### 　
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=olive_su)](https://solved.ac/olive-su)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=olive_su)](https://solved.ac/profile/olive_su)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olive-su&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
