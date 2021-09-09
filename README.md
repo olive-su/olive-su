@@ -42,4 +42,4 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=olive_su)](https://solved.ac/olive-su)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olive-su&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olive-su&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
