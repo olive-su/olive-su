@@ -13,7 +13,7 @@
 
 - **Language**
 
-  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Js Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![C Badge](https://img.shields.io/badge/C-A8B9CC?yle=flat-square&logo=C&logoColor=white)
+  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Js Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 
 - **Frame work**
 
