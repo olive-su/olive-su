@@ -21,7 +21,7 @@
 
 - **OS**
 
-  ![Window Badge](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white) ![MacOS Badge](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=MacOS&logoColor=white)
+  ![Window Badge](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white) ![MacOS Badge](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=MacOS&logoColor=white) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 
 - **Data Base**
 
