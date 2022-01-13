@@ -3,8 +3,9 @@
 
 # 👋 Hi, I'm olive-su!
 
-- 👀 I’m interested in Full stack web development and AI.
-- 🌱 I’m currently learning　![Flask Badge](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![Keras Badge](https://img.shields.io/badge/Keras-d00000?style=flat-square&logo=Keras&logoColor=white) ![Opencv Badge](https://img.shields.io/badge/Opencv-5C3EE8?style=flat-square&logo=Opencv&logoColor=white)
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folive-su&count_bg=%23BAB87B&title_bg=%23566000&icon=github.svg&icon_color=%23E7E7E7&title=olive-su&edge_flat=true)](https://hits.seeyoufarm.com)
+- 👀 I’m interested in Full stack Back-End development.
+- 🌱 I’m currently learning　![Flask Badge](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 
 ### 　
