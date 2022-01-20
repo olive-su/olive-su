@@ -5,7 +5,8 @@
 
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folive-su&count_bg=%23BAB87B&title_bg=%23566000&icon=github.svg&icon_color=%23E7E7E7&title=olive-su&edge_flat=true)](https://github.com/olive-su)
 - 👀 I’m interested in Back-End development.
-- 🌱 I’m currently learning　![Flask Badge](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+- 🌱 I’m currently learning　![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+ ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 
 ### 　
@@ -14,11 +15,11 @@
 
 - **Language**
 
-  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Js Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Js Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 
 - **Frame work**
 
-  ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![Express Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white) 
+  ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![Express Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white) ![Flask Badge](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 
 - **OS**
 
