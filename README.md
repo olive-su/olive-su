@@ -6,7 +6,6 @@
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folive-su&count_bg=%23BAB87B&title_bg=%23566000&icon=github.svg&icon_color=%23E7E7E7&title=olive-su&edge_flat=true)](https://github.com/olive-su)
 - 👀 I’m interested in Back-End development.
 - 🌱 I’m currently learning　![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
- ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 
 ### 　
