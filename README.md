@@ -26,11 +26,13 @@
 
 - **Data Base**
 
-  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)
 
-- **ETC**
+- **DevOps**
 
-  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)  ![AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![TrelloBadge](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white) 
+  ![AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=NGINX&logoColor=white)
 
 ### 　
 
@@ -42,5 +44,3 @@
 ### 　
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=olive_su)](https://solved.ac/profile/olive_su)
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olive-su&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
