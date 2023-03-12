@@ -63,7 +63,7 @@
  
 # 💬 Contact Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&link=mailto:1466su@gmail.com)](mailto:1466su@gmail.com) [![TistoryBlog Badge](https://img.shields.io/badge/Tech-Blog-00A98F?style=for-the-badge&link=https://olive-su.tistory.com/)](https://olive-su.tistory.com/) [![NaverBlog Badge](https://img.shields.io/badge/Daily-Blog-03C75A?style=for-the-badge&link=https://blog.naver.com/1466su)](https://blog.naver.com/1466su) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&link=mailto:dev.olivesu@gmail.com)](mailto:dev.olivesu@gmail.com) [![TistoryBlog Badge](https://img.shields.io/badge/Tech-Blog-00A98F?style=for-the-badge&link=https://olive-su.tistory.com/)](https://olive-su.tistory.com/) [![NaverBlog Badge](https://img.shields.io/badge/Daily-Blog-03C75A?style=for-the-badge&link=https://blog.naver.com/1466su)](https://blog.naver.com/1466su) 
  
 <br/>
 <br/>
