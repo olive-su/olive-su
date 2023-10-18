@@ -14,7 +14,7 @@
 
 😉 I'm always eager to learn new skills!
 
-🌱 I’m currently learning　![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
+🌱 I’m currently learning　![Serverless Badge](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=fff&style=flat) ![Amazon DynamoDB Badge](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff&style=flat) ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
 
 📫 How to reach me **dev.olivesu@gmail.com**
 
